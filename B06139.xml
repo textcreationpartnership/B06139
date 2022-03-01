@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable, our right vvorthy and grave senatours, the Lord Mayor, aldermen, and commonalty of the city of London in Common Council assembled. [Th]e most humble petition and address of divers young men, on the behalf of themselves and the apprentices in and about this honourable city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06139</idno>
+            <idno type="STC">Wing T1609A</idno>
+            <idno type="STC">ESTC R185346</idno>
+            <idno type="EEBO-CITATION">53299322</idno>
+            <idno type="OCLC">ocm 53299322</idno>
+            <idno type="VID">180049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180049)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2811:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable, our right vvorthy and grave senatours, the Lord Mayor, aldermen, and commonalty of the city of London in Common Council assembled. [Th]e most humble petition and address of divers young men, on the behalf of themselves and the apprentices in and about this honourable city.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Christopher Higgins ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Petition for peace in the city of London and a new Parliament.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:180049:1" rendition="simple:additions"/>
+            <head>To the Right Honourable, our right worthy and grave Senatours, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord MAYOR, ALDERMEN, and COMMONALTY of the City of <hi>LONDON,</hi> in Common Council aſſembled.</head>
+            <head type="sub">
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e moſt humble PETITION and ADDRESSE of divers Young men, on the behalf of themſelves and the APPRENTICES in and about this honourable City.</head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed the good and only wiſe GOD for our and the Nations crying ſins, to manifeſt His diſpleaſure for many years together againſt theſe once flouriſhing, now ſadly divided, diſtracted, and almoſt ruined Nations: and yet, bleſſed be GOD, this Honourable City hitherto hath been no proportionable ſharer in the Calamities which our Brethren in other parts of theſe (now miſerable) Nations have ſuffered; which are now aggravated by our Diviſions, and ſuch a general decay of Trading, as doth exceed the worſt of former times; All which we look upon, as a moſt ſad preſage of ſome heavie and diſmal Judgment very near at hand, if not our ſudden ruine: together with the deſtruction and utter diſſolution both of Church and State, which will inevitably enſue as a juſt reward upon our multiplied provocations, under the moſt ſignal manifeſtations of GOD'S moſt gracious preſence, and the moſt engaging mercies that ever People did enjoy (unleſſe it pleaſe our moſt gracious GOD, whoſe Name hath been exceedingly diſhonoured by the Violation of ſacred and ſolemn Oaths) amongſt us to work our deliverance out of this contexture of dangerous miſchiefs, into which we have already wound our <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s: or which, as the inundations of mighty waters, may ſuddenly break-in upon us: and being ſadly ſenſible of the calamities, under which the three Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> groan for want of a well-ordered and eſtabliſhed Government: We being Members in the ſame Political Body cannot but ſympathize with the reſt of Brethren: And foraſmuch as your endeavours may contribute very much there to, and the well or ill management of your Talents, in the diſcharge of Truſts, may now make theſe Nations happy, or elſe leave them irrecoverably miſerable: We hold our ſelves obliged in conſcience to GOD and our <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ntry, both by the Laws of GOD and the Land, in the behalf of our ſelves and all good and peaceable People in the Land, and the many thouſands <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know not their right hand from their left; and in the behalf of the Children unborn, who in time to come may have cauſe to bleſſe or curſe the day of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r birth for your ſakes, do make <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this humble Addreſſe to you, as the only means under GOD now left us to redreſſe theſe growing miſchiefs, which make and the three Nations, in theſe times of our great trouble, cry unto you (as thoſe of <hi>Macedonia</hi> did in the Apoſtles Viſion) <hi>Come and help us.</hi> And, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſeech you, our moſt grave and worthy <hi>Senatours,</hi> as you tender the welfare of theſe bleeding Nations, to ſtand in the wide gap of our Breaches, with <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r prayers, improving your Counſels, and every Talent (which God hath repoſed in you) for the Honour of GOD, and the Peace of His Church by a <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reformation;</hi> and we queſtion not but our moſt gracious GOD will then break through the thick clouds of theſe black and dark providences, and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> unto us <hi>our Judges as at the firſt, and our Counſellours as at the beginning,</hi> with the abundance of the bleſſings of Peace, that <hi>Judgement may run <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n our ſtreets, and Righteouſneſſe as a mighty ſtream.</hi> And we humbly deſire the two great Pillars of the Land, <hi>Magiſtracy</hi> and <hi>Miniſtery,</hi> may be <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rted and encouraged: In order unto which, we humbly preſent to your grave and ſerious conſiderations, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt, The Priviledges of the Goſpel which we do enjoy at this day in the faithfull preaching and diſpenſing of GODS holy Word and Sacraments, together <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Labours of ſo many of His faithfull Servants in the Miniſtry, and the liberty of theſe ſacred Ordinances, being the beſt and choiceſt of our National <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>gs; in reſpect of which, we may well ſay (with holy <hi>David</hi>) <hi>God hath not dealt ſo with any Nation</hi>: which with thankfulneſs we deſire to acknow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a great mercy to this Land: And ſhould the LORD remove His Candleſtick out of his place (as we have juſt cauſe to fear He will, unleſſe we do <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pent Then may we indeed complain with Phineas his wife, <hi>The glory is departed from our Iſrael,</hi> and a dark and diſmal night of black and gloomy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorance, Errour and Prophaneneſſe will invelope our valley of viſion. And to the end that this choice Bleſſing (which we account more precious than <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur lives) may be conveyed to Poſterity, We moſt humbly deſire the Miniſtery may be countenanced and encouraged, the Univerſities upheld and main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained, which have nurſed many famous Preachers for Piety and Learning in this and former Ages, and your Authority uſed for the terrour of evil-doers, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the praiſe of them that do well.</p>
+            <p>Secondly, We eſteem and aſſert as our undoubted birth-right, the Freedom and Priviledges of our Parliaments, as being the great Charter of the People <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>England,</hi> which we account equally dear with our Lives, in the enjoyment of which we yet hope under GOD to ſee a happie and laſting Settlement <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth in Church and State: Therefore we moſt humbly deſire that a new Election may be made, or elſe that thoſe worthy Gentlemen, choſen to ſerve <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Members in the late free Parliament, may be reſtored to their Priviledges, and ſit without diſturbance or force from the Army. That they may conſider <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is evil time, what <hi>England, Scotland</hi> and <hi>Ireland</hi> ought to do, which (with ſubmiſſion to your Grave Judgments) we humbly conceive to be the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt probable means under GOD to eſtabliſh the true Proteſtant Religion, reform the Laws, ſecure our Liberties, and preſerve our Lives and outward <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ernments, to promote Learning, and encourage Virtue; whereby Peace with our neighbour Nations may be renewed and eſtabliſhed, the Army ſa<g ref="char:EOLhyphen"/>fed, their Arrears paid, and Trading reſtored. In all which, moſt grave and worthy Senatours, your own concernments (aſwell as ours) are ſo deeply <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ged, that we perſwade our ſelves you will be inſtrumental to further our Deſires, by all peaceable and lawfull means; And we hope it will put an end to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diviſions, which (if GOD in mercy prevent not) may ſoon break out into another Civil War, and render us as a prey to a forreign enemy: For, <hi>a King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> divided againſt it ſelf cannot ſtand.</hi>
+            </p>
+            <p>
+               <hi>Now we leave it unto you, our moſt grave and worthy Senatours, duly to conſider if you part with theſe our great National Bleſſings, whether you will not diſcover a palpable breach of Truſt, and leave your Names for a reproach to the Generations following, who will in the Ages to come riſe up and call you bleſſed, if you be carefull to preſerve them now, and convey them to Poſterity: And now We beſeech the LORD to ſtrengthen both your hearts and hands, and give you wiſdom from on high to direct you in all your Conſultations, as may be moſt for the Honour of GOD, the Peace of His Church throughout the World, and the Settlement, Safety and Happineſſe of theſe poor Nations; And by His Aſsiſtance we reſolve to ſtand by you, and with you to the utmost hazard of our lives, and all that is dear unto us, to promote the ſame.</hi>
+            </p>
+         </div>
+         <div type="report">
+            <opener>
+               <dateline>
+                  <date>Monday, 5. <hi>December,</hi> 1659.</date>
+               </dateline>
+            </opener>
+            <p>THis day the Lord Mayor, Aldermen, and Common Council being aſſembled, the fore-recited PETITION was preſented by ſeveral Young men and Apprentices, in the behalf of themſelves and ſeveral thouſands which have ſubſcribed the ſame; the which being received, was ordered to be read, and thereupon a Committee choſen to conſider thereof, and to give theirs ſpeedy Report unto the next Court concerning the ſame.</p>
+            <p>
+               <hi>At the ſame Court it was likewiſe Ordered, That the Lord General <hi>Fleetwood</hi> ſhould be deſired to draw off the Souldiers unto their ſeveral Quarters; it being then alſo Ordered, That every <hi>Common Council man</hi> in his ſeveral Precinct, ſhould give notice to the Houſe-keepers within the ſame, that they ſhould keep their Servants and Apprentices at home, thereby to preſerve the Peace of the City.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts Cloſe,</hi> over againſt the Trone-Church, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
